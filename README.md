@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Starry Scoop
 
-You can use the [editor on GitHub](https://github.com/kaitlynn200275/Starry-Scoop/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+What is the Starry Scoop
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Starry Scoop is a monthly newsletterthat communicates current astronomy and space events.
+
+
 
 ### Markdown
 
