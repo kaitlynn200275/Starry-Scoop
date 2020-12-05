@@ -1,21 +1,21 @@
 ## Starry Scoop
 
-What is the Starry Scoop
+Overview
 
-The Starry Scoop is a monthly newsletterthat communicates current astronomy and space events.
+The purpose of the Starry Scoop is to communicate current astronomy and space events. Contact me at starryscoop@gmail.com. 
 
 
 
-### Markdown
+### Test
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Write something here
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# About Me
+## Starry Scoop
+### Upcoming Events
 
 - Bulleted
 - List
@@ -34,6 +34,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaitlynn200275/Starry-Scoop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+starryscoop@gmail.com 
